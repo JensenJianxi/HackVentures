@@ -1,4 +1,3 @@
-### HACK VENTURES
 # 🚀 Hack Ventures – Campus Safety App  
 
 ## 📌 Track  
@@ -35,4 +34,5 @@
 ---
 
 ✨ Built with care by **Hack Ventures** for safer campuses everywhere.
+
 
