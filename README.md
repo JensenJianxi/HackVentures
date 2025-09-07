@@ -3,9 +3,8 @@
 ## Youtube video link
 https://youtu.be/wHH4zgCQ62k
 
-## <img width="4870" height="1750" alt="Presentation slide" src="https://github.com/user-attachments/assets/a05cbb20-2278-49b6-b2f4-9778a804f2ca" />
-
-
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b550be4b-ec9c-4457-aa9e-8624c419d537" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/269af687-ec92-414a-8d66-4b2809bb1dc9" />
 
 ## 📌 Track  
 **Campus Safety App**  
@@ -41,6 +40,7 @@ https://youtu.be/wHH4zgCQ62k
 ---
 
  Built with care by **Hack Ventures** for safer campuses everywhere.
+
 
 
 
