@@ -3,7 +3,8 @@
 ## Youtube video link
 https://youtu.be/wHH4zgCQ62k
 
-## ![Uploading Presentation slide.png…]()
+## <img width="4870" height="1750" alt="Presentation slide" src="https://github.com/user-attachments/assets/a05cbb20-2278-49b6-b2f4-9778a804f2ca" />
+
 
 
 ## 📌 Track  
@@ -40,6 +41,7 @@ https://youtu.be/wHH4zgCQ62k
 ---
 
  Built with care by **Hack Ventures** for safer campuses everywhere.
+
 
 
 
